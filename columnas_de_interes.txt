@@ -1,0 +1,9 @@
+columnas de interes
+
+'property_type'='apartment'
+'state_name'='Capital Federal'
+'currency'=USD
+'place_name','lat', 'lon', 'price','surface_total_in_m2', 'surface_covered_in_m2'?, 'price_usd_per_m2', 
+'expenses', 'description', 'title'
+
+tarea de limpieza: inferir currency cuando es NaN
